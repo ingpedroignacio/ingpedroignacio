@@ -6,7 +6,8 @@
 
 Here are some ideas to get you started:
 
-- ### Ingeniero electrónico Esp Redes
+- ### Ingeniero electrónico. Esp Redes
+- ### Magister Comp Digitales
 - ### Docente de Tec. Informática 
 - ### Desarrollo de proyectos electrónicos 
 
