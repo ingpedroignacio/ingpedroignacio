@@ -1,7 +1,7 @@
 
 <h1 align="center"> PedroHer 👋</h1>
 
-## PedroHer
+## :--PedroHer
 
 - #### _Ingeniero electrónico. Esp Redes_ ⚡
 - #### _Magister Comp Digitales_ 💻
