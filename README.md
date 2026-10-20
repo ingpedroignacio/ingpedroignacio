@@ -7,6 +7,6 @@
 Here are some ideas to get you started:
 
 - ### Ingeniero en electrónica
-- 📚 ##Docente de Tec. Informática 
-- ⚡ ##Desarrollo de proyectos electrónicos 
+- 📚 ## Docente de Tec. Informática 
+- ⚡ ## Desarrollo de proyectos electrónicos 
 
