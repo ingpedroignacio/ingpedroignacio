@@ -1,6 +1,5 @@
 
-<h1 align="center"> Texto </h1>
-# *PedroHer* 👋
+<h1 align="center"> PedroHer 👋</h1>
 
 - ### Ingeniero electrónico. Esp Redes ⚡
 - ### Magister Comp Digitales 💻
