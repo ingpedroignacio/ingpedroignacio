@@ -1,8 +1,8 @@
 
 <h1 align="center"> PedroHer 👋</h1>
 
-- ### Ingeniero electrónico. Esp Redes ⚡
-- ### Magister Comp Digitales 💻
-- ### Docente de Tec. Informática 📚
-- ### Desarrollo de proyectos electrónicos 💡 
+- #### _Ingeniero electrónico. Esp Redes_ ⚡
+- #### _Magister Comp Digitales_ 💻
+- #### _Docente de Tec. Informática_ 📚
+- #### _Desarrollo de proyectos electrónicos_ 💡 
 
