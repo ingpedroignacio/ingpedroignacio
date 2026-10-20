@@ -1,6 +1,6 @@
 # *PedroHer* 👋
 <div class="contenedor">
-    <h1><center>Hola</center></h1>
+    <center><h1>Hola</h1></center>
 </div> 
 
 
