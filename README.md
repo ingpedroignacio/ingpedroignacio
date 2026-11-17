@@ -1,6 +1,7 @@
 
 <h1 align="center"> PedroHer 👋</h1>
-https://ingpedroignacio.github.io/electro/ 
+<a href="https://ingpedroignacio.github.io/electro/" target="_blank">Periódico Clarin</a>
+ 
 
 - #### _Ingeniero electrónico. Esp Redes_ ⚡
 - #### _Magister Comp Digitales_ 💻
