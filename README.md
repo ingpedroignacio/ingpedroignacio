@@ -6,5 +6,4 @@ https://ingpedroignacio.github.io/electro/
 - #### _Magister Comp Digitales_ 💻
 - #### _Docente de Tec. Informática_ 📚
 - #### _Desarrollo de proyectos electrónicos_ 💡
-- 
 
