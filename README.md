@@ -1,6 +1,6 @@
 
 <h1 align="center"> PedroHer 👋</h1>
-[Ir a la Web](https://ingpedroignacio.github.io/electro/)*(Ctrl + clic para abrir en pestaña nueva)*
+[Ir a la Web]<a href="ingpedroignacio.github.io/electro">Web</a>*(Ctrl + clic para abrir en pestaña nueva)*
  
 
 - #### _Ingeniero electrónico. Esp Redes_ ⚡
