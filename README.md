@@ -1,6 +1,6 @@
 
 <h1 align="center"> PedroHer 👋</h1>
-<a href="https://ingpedroignacio.github.io/electro/" target="_blank">Periódico Clarin</a>
+<a href="https://ingpedroignacio.github.io/electro/" target="_blank">Web</a>
  
 
 - #### _Ingeniero electrónico. Esp Redes_ ⚡
